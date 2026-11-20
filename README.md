@@ -5,6 +5,8 @@
 ![testthat](https://img.shields.io/badge/testthat-unit_tests-6E9F18)
 ![CI](https://github.com/asad110abbas/r-sales-eda/actions/workflows/ci.yml/badge.svg)
 
+> 🌌 Part of **[BRIHA AI World](https://github.com/asad110abbas)**, the AI-driven portfolio of Syed Asad Abbas.
+
 **Exploratory data analysis** of two years of e-commerce orders using the **tidyverse**: revenue trends,
 category mix, price distributions, seasonality heatmaps and the effect of discounts on customer ratings.
 
