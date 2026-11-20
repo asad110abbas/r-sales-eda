@@ -1,12 +1,12 @@
 # 📊 BRIHA · E-commerce Sales EDA in R
 
-![BRIHA](https://img.shields.io/badge/BRIHA-Genesis_of_AGI-8B5CF6?style=for-the-badge&labelColor=0B1024) ![Module](https://img.shields.io/badge/Briha-Data_Lab-00F0FF?style=for-the-badge&labelColor=0B1024)
+![BRIHA](https://img.shields.io/badge/Part_of-BRIHA-8B5CF6?style=for-the-badge&labelColor=0B1024) ![Module](https://img.shields.io/badge/Briha-Data_Lab-00F0FF?style=for-the-badge&labelColor=0B1024)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![tidyverse](https://img.shields.io/badge/tidyverse-dplyr_%7C_ggplot2-1A162D)
 ![testthat](https://img.shields.io/badge/testthat-unit_tests-6E9F18)
 ![CI](https://github.com/asad110abbas/r-sales-eda/actions/workflows/ci.yml/badge.svg)
 
-> ⚡ **BRIHA: The Genesis of AGI.** This is a **Briha Data Lab** module, part of the [BRIHA AI World](https://github.com/asad110abbas), built by **Syed Asad Abbas**.
+> ⚡ **Part of [BRIHA](https://github.com/asad110abbas)**, built by Syed Asad Abbas.
 
 **Exploratory data analysis** of two years of e-commerce orders using the **tidyverse**: revenue trends,
 category mix, price distributions, seasonality heatmaps and the effect of discounts on customer ratings.
